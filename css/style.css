@@ -1,0 +1,25 @@
+/* * IAMGOPAL.DEV */
+
+* {
+  background-color: aliceblue;
+  color: rgb(87, 87, 87);
+  font-family: Monolisa;
+}
+
+/* * Software Development and Data Science */
+
+h1,
+.time-taken {
+  text-align: center;
+  text-decoration: underline;
+}
+h1 {
+  text-decoration: none;
+}
+.developer {
+  text-decoration: underline;
+  font-size: 24px;
+}
+li {
+  font-size: 20px;
+}
