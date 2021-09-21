@@ -5,6 +5,11 @@
   color: rgb(87, 87, 87);
   font-family: Monolisa;
 }
+.btn-path {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 20px;
+}
 
 /* * Software Development and Data Science */
 
